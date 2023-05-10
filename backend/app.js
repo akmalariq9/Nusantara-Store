@@ -7,7 +7,7 @@ const cors = require("cors");
 const path = require("path");
 
 app.use(cors({
-  origin: 'http://localhost:3000',
+  origin: 'https://nusantara-store-z34b.vercel.app/',
   credentials: true
 }));
 
