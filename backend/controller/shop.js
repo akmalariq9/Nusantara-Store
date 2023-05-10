@@ -44,7 +44,7 @@ router.post("/create-shop", upload.single("file"), async (req, res, next) => {
 
     const activationToken = createActivationToken(seller);
 
-    const activationUrl = `https://nusantara-store-z34b.vercel.app/seller/activation/${activationToken}`;
+    const activationUrl = `https://nusantara-store-project.vercel.app/seller/activation/${activationToken}`;
 
     try {
       await sendMail({
