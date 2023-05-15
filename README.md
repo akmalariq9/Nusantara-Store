@@ -12,12 +12,12 @@ Sebelum memulai pengembangan API, perlu dilakukan _Database Modelling_ untuk men
 ## **_Conceptual Database Model_ (CDM)**
 Berikut adalah _Conceptual Database Model_ dari _Website E-Commerce_ Nusantara Store. Terdapat beberapa tabel, diantaranya ialah _User, Shop, Products, Payment, Order, Withdraw, Messages, Event, Conversation_, dan _CouponCode_. 
 
-![CDM1](https://cdn.discordapp.com/attachments/1083730715113426985/1106219463239540766/PDM_FP_MCI.png)
+![CDM1](https://cdn.discordapp.com/attachments/1083730715113426985/1106219464262963261/CDM_FP_MCI.png)
 
 ## **_Physical Database Model_ (PDM)**
 Secara garis besar, _Physical Database Model_ yang digunakan dalam pengerjaan tugas ini hampir sama dengan _Conceptual Database Model._ Hanya saja, tabel-tabel yang memiliki relasi akan menambahkan _Foreign Key_ menjadi sebuah entitas. Berikut adalah visualisasi dari _Physical Database Model_ yang telah dibuat:
 
-![PDM1](https://cdn.discordapp.com/attachments/1083730715113426985/1106219464262963261/CDM_FP_MCI.png)
+![PDM1](https://cdn.discordapp.com/attachments/1083730715113426985/1106219463239540766/PDM_FP_MCI.png)
 
 # **_About Nusantara Store_**
 
@@ -69,6 +69,28 @@ _**Important Notes:**_ Fitur _register_ tidak bisa digunakan karena masalah _upl
 ## **Dokumentasi**
 Untuk melihat dokumentasi dari implementasi untuk _CRUD API_ yang telah dibuat, digunakan _software_ Postman. Dokumentasi tersebut dapat diakses [disini](https://documenter.getpostman.com/view/26786734/2s93ebTqtL) atau menggunakan _link_ berikut:\
 https://its.id/m/DokumentasiFPMCI
+
+## **_Screenshot website_**
+
+- **_Login Page_**
+
+![Login](https://cdn.discordapp.com/attachments/1083730715113426985/1107908983693520938/image.png)
+
+- **_Homepage_**
+
+![Homepage](https://cdn.discordapp.com/attachments/1083730715113426985/1107908893629239356/Screenshot_649.png)
+
+- **_User Dashboard_**
+
+![UserDashboard](https://cdn.discordapp.com/attachments/1083730715113426985/1107909744229883924/image.png)
+
+- **_Seller Dashboard_**
+
+![SellerDashboard](https://cdn.discordapp.com/attachments/1083730715113426985/1107908894677803068/Screenshot_650.png)
+
+- **_Products Page_**
+
+![Products](https://cdn.discordapp.com/attachments/1083730715113426985/1107908895311155270/Screenshot_652.png)
 
 # **End Of The Line**
 ```c
