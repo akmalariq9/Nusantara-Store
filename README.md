@@ -9,8 +9,8 @@ Repository untuk Pengerjaan Final Project Calon Admin Lab MCI (Manajemen Cerdas 
 # **_Database Modelling_**
 Sebelum memulai pengembangan API, perlu dilakukan _Database Modelling_ untuk menganalisis kebutuhan yang akan dibuat, serta agar tidak salah dalam proses pembuatannya. Berikut adalah _Database Modelling_ untuk pengerjaan Final Project Calon Admin Lab MCI (Manajemen Cerdas Informasi).
 
-## **_Conceptual Database Model_ (CDM)**
-Berikut adalah _Conceptual Database Model_ dari _Website E-Commerce_ Nusantara Store. Terdapat beberapa tabel, diantaranya ialah _User, Shop, Products, Payment, Order, Withdraw, Messages, Event, Conversation_, dan _CouponCode_. 
+## **_Logical Database Model_ (LDM)**
+Berikut adalah _Logical Database Model_ dari _Website E-Commerce_ Nusantara Store. Terdapat beberapa tabel, diantaranya ialah _User, Shop, Products, Payment, Order, Withdraw, Messages, Event, Conversation_, dan _CouponCode_. 
 
 ![CDM1](https://cdn.discordapp.com/attachments/1083730715113426985/1106219464262963261/CDM_FP_MCI.png)
 
